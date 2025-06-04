@@ -1,7 +1,7 @@
 
-# CrySanse 👶🔊  
+# CrySense 👶🔊  
 
-CrySanse adalah sistem klasifikasi suara tangisan bayi untuk mendeteksi arti dari tangisan tersebut, seperti lapar, sakit, atau tidak nyaman, menggunakan pendekatan Machine Learning dan Deep Learning.
+CrySense adalah sistem klasifikasi suara tangisan bayi untuk mendeteksi arti dari tangisan tersebut, seperti lapar, sakit, atau tidak nyaman, menggunakan pendekatan Machine Learning dan Deep Learning.
 
 ## 📌 Deskripsi  
 Proyek ini bertujuan membantu orang tua dan pengasuh bayi memahami kebutuhan bayi berdasarkan analisis suara tangisan. Dataset yang digunakan berisi ribuan file audio `.wav` yang telah diklasifikasikan berdasarkan kategori tangisan.
@@ -99,4 +99,4 @@ Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk disku
 
 ---
 
-Terima kasih telah menggunakan **CrySanse** — memahami bayi melalui suara. 💡👶
+Terima kasih telah menggunakan **CrySense** — memahami bayi melalui suara. 💡👶
