@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Open+Sans:wght@400;600&display=swap");
+
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@import "flowbite";
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+
+@source "../node_modules/flowbite";
+
+@theme {
+  --color-primary-darkest: #3a0519;
+  --color-primary-dark: #670d2f;
+  --color-secondary: #a53860;
+  --color-secondary-light: #ef78a4;
+
+  --font-poppins: "Poppins", sans-serif;
+  --font-open-sans: "Open Sans", sans-serif;
+}
