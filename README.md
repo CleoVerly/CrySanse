@@ -44,7 +44,8 @@ pip install -r requirements.txt
 ```
 
 ### 3. Siapkan Dataset
-Pastikan dataset Anda disimpan dalam folder `dataset/` dan terstruktur berdasarkan kelas:
+Berikut link repository untuk dataset https://github.com/CleoVerly/CRYSENSE-DATASET
+Unduh dan pastikan dataset Anda disimpan dalam folder `dataset/` dan terstruktur berdasarkan kelas:
 ```
 dataset/
 ├── hungry/
